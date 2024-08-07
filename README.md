@@ -1,2 +1,2 @@
 # AI-Training-Data
-Training data used for LLMs
+Training data I created for a project fine-tuning an LLM
